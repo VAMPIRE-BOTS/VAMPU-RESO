@@ -83,10 +83,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/DKS_LINK"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/VAMPUBOTSADDA"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url="https://t.me/DKS_LINK"
+                text="•ᴄʟᴏɴᴇ•", url="https://t.me/VAMPUBOTSADDA"
             ),
         ],
     ]
