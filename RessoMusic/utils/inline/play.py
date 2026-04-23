@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/DKS_LINK"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/VAMPUBOTSADDA"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/DKS_LINK"
+                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/VAMPUBOTSADDA"
             ),
         ],
     ]
