@@ -1,4 +1,4 @@
-# DARKMUSIC
+# VAMPIRE BOTS ADDA
 
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO)
@@ -24,7 +24,7 @@
    ```
  6. **📥 ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
    ```bash
-   git clone https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO && cd VAMPIRE-RESSO
+   git clone https://github.com/VAMPIRE-BOTS/VAMPU-RESO && cd VAMPU-RESO
    ```
  7. **📂 ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs**
    ```bash
